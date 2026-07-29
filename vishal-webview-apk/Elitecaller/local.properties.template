@@ -1,0 +1,11 @@
+## This file is a TEMPLATE. Copy it to "local.properties" and set your own
+## Android SDK path when opening this project locally in Android Studio.
+## DO NOT commit the real local.properties file to version control.
+##
+## Example (Windows):
+## sdk.dir=C\:\\Users\\YourName\\AppData\\Local\\Android\\Sdk
+##
+## Example (macOS/Linux):
+## sdk.dir=/Users/YourName/Library/Android/sdk
+
+sdk.dir=/path/to/your/Android/sdk

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- No sensitive local data is stored by this app outside of WebView cache/cookies,
+         which are excluded from backup for privacy. -->
+    <exclude domain="sharedpref" path="."/>
+    <exclude domain="database" path="."/>
+</full-backup-content>
